@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Pixel 3, 3 XL -->
+  <project name="BeachOS/proprietary_vendor_google_crosshatch" path="vendor/google/crosshatch" remote="gitlab-priv" clone-depth="1" />
+  <project name="BeachOS/proprietary_vendor_google_blueline" path="vendor/google/blueline" remote="gitlab-priv" clone-depth="1" />
+
+  <!-- Pixel 3a, 3a XL -->
+  <project name="BeachOS/proprietary_vendor_google_bonito" path="vendor/google/bonito" remote="gitlab-priv" clone-depth="1" />
+  <project name="BeachOS/proprietary_vendor_google_sargo" path="vendor/google/sargo" remote="gitlab-priv" clone-depth="1" />
+
+  <!-- Pixel 4, 4 XL -->
+  <project name="BeachOS/proprietary_vendor_google_coral" path="vendor/google/coral" remote="gitlab-priv" clone-depth="1" />
+  <project name="BeachOS/proprietary_vendor_google_flame" path="vendor/google/flame" remote="gitlab-priv" clone-depth="1" />
+
+  <!-- Pixel 4a -->
+  <project name="BeachOS/proprietary_vendor_google_sunfish" path="vendor/google/sunfish" remote="gitlab-priv" clone-depth="1" />
+
+  <!-- Pixel 5, 4a (5G), 5a -->
+  <project name="BeachOS/proprietary_vendor_google_redfin" path="vendor/google/redfin" remote="gitlab-priv" clone-depth="1" />
+  <project name="BeachOS/proprietary_vendor_google_bramble" path="vendor/google/bramble" remote="gitlab-priv" clone-depth="1" />
+  <project name="BeachOS/proprietary_vendor_google_barbet" path="vendor/google/barbet" remote="gitlab-priv" clone-depth="1" />
+
+  <!-- Pixel 6, 6 Pro -->
+  <project name="BeachOS/proprietary_vendor_google_raven" path="vendor/google/raven" remote="gitlab-priv" clone-depth="1" />
+  <project name="BeachOS/proprietary_vendor_google_oriole" path="vendor/google/oriole" remote="gitlab-priv" clone-depth="1" />
+
+  <!-- Pixel 6a -->
+  <project name="BeachOS/proprietary_vendor_google_bluejay" path="vendor/google/bluejay" remote="gitlab-priv" clone-depth="1" />
+
+  <!-- Pixel 7, 7 Pro -->
+  <project name="BeachOS/proprietary_vendor_google_cheetah" path="vendor/google/cheetah" remote="gitlab-priv" clone-depth="1" />
+  <project name="BeachOS/proprietary_vendor_google_panther" path="vendor/google/panther" remote="gitlab-priv" clone-depth="1" />
+
+  <!-- Fairphone 4 -->
+  <project name="BeachOS/proprietary_vendor_fairphone_FP4" path="vendor/fairphone/FP4" remote="gitlab-priv" clone-depth="1" />
+
+</manifest>
